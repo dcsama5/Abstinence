@@ -1,0 +1,17 @@
+
+
+body {background-color:#80B2B2;}
+
+
+.container {
+	align
+	border:solid 2px #b7ddf2;
+	width: 500px;
+	color:white;
+	text-transform:uppercase;
+	
+}
+
+.container input{
+	width:50%;
+}
